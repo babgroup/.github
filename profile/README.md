@@ -24,7 +24,7 @@
 --------
 feature/{기능요약} : 새로운 기능 개발 및 버그 수정이 필요하면 생성
 
-bugfix/issueNumber#{issue 번호} : 버그 수정시 생성 
+bugfix/issue-number#{issue 번호} : 버그 수정시 생성 
 
 그 외 다른 브랜치가 필요하면 위의 커밋 규칙에 있는 단어중 하나랑 issueNumber로 만들면 될 거 같습니다.
-예) remove/issueNumber#{} 
+예) remove/issue-number#{} 
